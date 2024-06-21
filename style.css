@@ -131,8 +131,8 @@ body{
      }
      .humidity, .wind{
         position: relative;
-        right: 33px;
-        margin: 15px 15px;
+        right: 30px;
+        margin: 0px 20px;
     
     
     }
@@ -140,14 +140,14 @@ body{
         display: flex;
         text-align: start;
         position: relative;
-        left: 0px;
+        left: -3px;
         
     
         }
     
     .card{
         width:100%;
-        max-width: 356px;
+        max-width: 350px;
 
     }
 
