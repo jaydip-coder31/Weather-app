@@ -125,14 +125,15 @@ body{
         width: 30px;
      }
      .col img {
-        width: 35px;
+        width: 30px;
         position: relative;
-        right: 35px
+        right: 20px
      }
      .humidity, .wind{
         position: relative;
-        right: 55px;
-        margin: 2px 0px;
+        right: 33px;
+        margin: 15px 15px;
+    
     
     }
     .col{
@@ -146,7 +147,7 @@ body{
     
     .card{
         width:100%;
-        max-width: 386px;
+        max-width: 356px;
 
     }
 
