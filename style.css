@@ -138,13 +138,14 @@ body{
         display: flex;
         text-align: start;
         position: relative;
-        left: 16px;
-        font-size: 20px;
+        left: 0px;
+        
     
         }
     
     .card{
-        width: 100%;
+        width:100%;
+        max-width: 386px;
 
     }
 
