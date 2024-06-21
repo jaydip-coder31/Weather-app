@@ -108,9 +108,7 @@ body{
 @media only screen and (max-width:600px){
     body{
         background-color: #222;
-        margin: 0;
-        padding: 0;
-    
+        
 
         
     }
@@ -123,6 +121,9 @@ body{
         right: 26px
 
      }
+     input{
+        width: 20px;
+     }
      .col img {
         width: 35px;
         position: relative;
@@ -130,8 +131,10 @@ body{
      }
      .humidity, .wind{
         position: relative;
-        right: 38px;
-        margin: 2px 25px;
+        right: 40px;
+        margin: 10px 12px;
+    }
+
     
 }
 .col{
