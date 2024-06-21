@@ -134,17 +134,24 @@ body{
         right: 40px;
         margin: 10px 12px;
     }
+    .col{
+        display: flex;
+        text-align: start;
+        position: relative;
+        left: 16px;
+        font-size: 20px;
+    
+        }
+    
+    .card{
+        width: 100%;
+
+    }
 
     
 }
-.col{
-    display: flex;
-        text-align: justify;
-        position: relative;
-        right: 8px;
-    }
 
-}
+
      
     
     
